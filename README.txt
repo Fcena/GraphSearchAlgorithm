@@ -16,7 +16,7 @@ Describe:	Implementation Code in <<Introduction to Algorithms>>, Second Edition
 		http://acm.hdu.edu.cn/showproblem.php?pid=3342
 
 		Kosaraju.cpp
-		Tarjan.cpp, you can test this two files at:
+		Tarjan.cpp, you can test these two files at:
 		http://acm.hdu.edu.cn/showproblem.php?pid=2767
 
 		Each file is independent, more information at

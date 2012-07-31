@@ -20,7 +20,7 @@ char map[N][N];
 int mark[N][N];
 int dir[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
  
-//ÅĞ¶ÏÊÇ·ñÔ½½ç
+//åˆ¤æ–­æ˜¯å¦è¶Šç•Œ
 bool Overmap(int x, int y) {
     if (x < 0 || x >= n || y < 0 || y >= m) {
         return true;
